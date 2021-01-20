@@ -84,6 +84,7 @@ h6 {
 }
 .example-string {
 	display: block;
+	color: red;
 
 }
 .example-image {
